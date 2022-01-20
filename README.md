@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> 🍇 LEE SEO HYUN 🍇 </h2>
+  <h2> 🐱 LEE SEO HYUN 🐱 </h2>
   <h4> <p> 이서현</p></h4>
   <p> 📧  kathyleesh7@gmail.com </p>  
   <p> 📧  https://velog.io/@kathylee </p>  
