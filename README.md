@@ -1,3 +1,4 @@
+<div align="center">
   <h2> 🐱 LEE SEO HYUN 🐱 </h2>
 <p align="right">
   <a href="https://velog.io/@kathylee"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kathylee"/></a>&nbsp
