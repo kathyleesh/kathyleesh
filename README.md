@@ -12,12 +12,8 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathyleesh&layout=compact&custom_title=💎&nbsp;My&nbsp;Language&nbsp;💎&bg_color=-30,F2B6C6,2AB0BF&title_color=fff&text_color=fff)](https://github.com/kathyleesh/github-readme-stats)
 
 
-  <br>
-<p align="left">    
+<p align="center">   
   <h3>👩🏻‍💻 Tech Stack</h3>
-</p>
-
-<p align="left">   
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp    
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
