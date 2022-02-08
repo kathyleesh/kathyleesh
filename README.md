@@ -1,8 +1,10 @@
 <div align="center">
   <h2> 🐱 LEE SEO HYUN 🐱 </h2>
   <h4> <p> 이서현</p></h4>
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat square&logo=Gmail&logoColor=white&link=mailto:kathyleesh7@gmail.com)](mailto:kathyleesh7@gmail.com) 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kathyleesh)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<div align="center">
+  ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat square&logo=Gmail&logoColor=white&link=mailto:kathyleesh7@gmail.com)(mailto:kathyleesh7@gmail.com) 
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kathyleesh)(https://github.com/anuraghazra/github-readme-stats)
 </div>
   
 <!--   <br>
