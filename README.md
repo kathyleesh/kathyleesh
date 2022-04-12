@@ -1,12 +1,13 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=slice&color=4CC0AB&fontColor=ffffff&height=300&section=header&text=HELLO!!&fontSize=50&fontAlign=70&fontAlignY=25&rotate=20&desc=Here%20is%20future%20PM%20/%20Backend%20Developer's%20GitHub&descAlign=70&descAlignY=40&&animation=fadeIn" />
+<br><br>
 <p align="right">
   <a href="https://velog.io/@kathylee"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kathylee"/></a>&nbsp
   <a href="https://www.instagram.com/seohyun_lee_20/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seohyun_lee_20/"/></a>&nbsp
   <a href="mailto:kathyleesh7@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kathyleesh7@gmail.com"/></a>
 </p>
 
-  <br> <br>
+  <br>
 
   ![kathyleesh's GitHub](https://github-readme-stats.vercel.app/api?username=kathyleesh&count_private=true&custom_title=🐱&nbsp;kathyleesh's&nbsp;github&nbsp;🐱&bg_color=000000&title_color=fff&text_color=fff&show_icons=false)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathyleesh&layout=compact&custom_title=💎&nbsp;My&nbsp;Language&nbsp;💎&bg_color=000000&title_color=fff&text_color=fff)](https://github.com/kathyleesh/github-readme-stats)
