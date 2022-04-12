@@ -6,7 +6,7 @@
   <a href="mailto:kathyleesh7@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kathyleesh7@gmail.com"/></a>
 </p>
 
-  <br>
+  <br> <br>
 
   ![kathyleesh's GitHub](https://github-readme-stats.vercel.app/api?username=kathyleesh&count_private=true&custom_title=🐱&nbsp;kathyleesh's&nbsp;github&nbsp;🐱&bg_color=000000&title_color=fff&text_color=fff&show_icons=false)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathyleesh&layout=compact&custom_title=💎&nbsp;My&nbsp;Language&nbsp;💎&bg_color=000000&title_color=fff&text_color=fff)](https://github.com/kathyleesh/github-readme-stats)
