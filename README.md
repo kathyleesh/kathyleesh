@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=slice&color=4CC0AB&fontColor=ffffff&height=300&section=header&text=HELLO!!&fontSize=50&fontAlign=70&fontAlignY=25&rotate=20&desc=Here%20is%20future%20PM%20/%20Backend%20Developer's%20GitHub&descAlign=70&descAlignY=40&&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=4CC0AB&fontColor=ffffff&height=300&section=header&text=HELLO!!&fontSize=50&fontAlign=70&fontAlignY=25&rotate=20&desc=Here%20is%20future%20Backend%20Developer's%20GitHub&descAlign=70&descAlignY=40&&animation=fadeIn" />
 <br><br>
 <p align="right">
   <a href="https://velog.io/@kathylee"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kathylee"/></a>&nbsp
