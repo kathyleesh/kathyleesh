@@ -29,7 +29,7 @@
   |Organization|Activity|position|acheive|Date|
   |:---:|:---:|:---:|:---:|:---:|
   |멋쟁이사자처럼 10기|멋쟁이사자처럼 동아리 홈페이지 개발|backend(Django)|참여 중|2022|
-  |제 10회 k-해커톤|전기차 충전소 관리 웹앱 개발| PM & backend(Spring boot)|결선 진행 중|2022| 
+  |제 10회 k-해커톤|전기차 충전소 관리 웹앱 개발| PM & backend(Spring boot)|결선 <br>진행 중|2022| 
   |웹킷 640|웹 개발자 양성 프로그램|조교|참여 중|2022|
   |KIT 학습공동체 14기|사동고등학교 웹프로그래밍 멘토|Leader|최우수상|2022|
   |제 10회 멋쟁이사자처럼 <br>중앙 해커톤| 은퇴 후 제 2의 삶을 위한 플랫폼 (Re:act) |Leader & PM & backend(Django)| 상위 우수<br>15팀 선정 |2022|
