@@ -16,6 +16,7 @@
   <h3>👩🏻‍💻 Tech Stack</h3>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp    
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
@@ -32,7 +33,9 @@
   |웹킷 640|웹 개발자 양성 프로그램|조교|참여 중|2022|
   |KIT 학습공동체 14기|사동고등학교 웹프로그래밍 멘토|Leader|최우수 멘토 선정|2022|
   |제 10회 멋쟁이사자처럼 <br>중앙 해커톤| 은퇴 후 제 2의 삶을 위한 플랫폼 (Re:act) |Leader & PM & backend(Django)| 상위 우수<br>15팀 선정 |2022|
-  |멋쟁이사자처럼 대구 경북 해커톤|신조어 도감|Leader & PM & backend(Django)|참여|2022|
+  |멋쟁이사자처럼 <br> 대구 경북 해커톤|신조어 도감|Leader & PM & backend(Django)|참여|2022|
+  |멋쟁이사자처럼 10기 <br> 사이드 프로젝트|개발자 유형 MBTI와 부트캠프 비교 플랫폼(SBC)|Leader & PM & backend(Django)|참여|2022|
+  |멋쟁이사자처럼 10기 <br> 사이드 프로젝트|아이디어톤|Leader|2등|2022|
   |멋쟁이사자처럼 10기|기획/디자인 트랙|PM|수료|2022|
   |멋쟁이사자처럼 10기|백엔드 트랙|backend(Django)|수료|2022|
   |멋쟁이사자처럼 10기|백엔드 & 기획/디자인 트랙 교육 진행 |운영진(부대표)|수료|2022|
@@ -40,7 +43,6 @@
 <br>
 
 <p align="right">
-  <a href="https://velog.io/@kathylee"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kathylee"/></a>&nbsp
   <a href="https://www.instagram.com/seohyun_lee_20/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seohyun_lee_20/"/></a>&nbsp
   <a href="mailto:kathyleesh7@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kathyleesh7@gmail.com"/></a>
 </p>
