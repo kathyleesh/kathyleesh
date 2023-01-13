@@ -2,8 +2,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=slice&color=4CC0AB&fontColor=ffffff&height=300&section=header&text=LEE&nbsp;SEO&nbsp;HYUN&fontSize=50&fontAlign=70&fontAlignY=25&rotate=20&desc=Here%20is%20future%20Backend%20Developer's%20GitHub&descAlign=70&descAlignY=40&&animation=fadeIn" />
 <br><br>
-
-
+  
 <p align="center">   
   <h3>👩🏻‍💻 Tech Stack</h3>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -14,6 +13,12 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp 
   
 </p>
+
+[![](https://raw.githubusercontent.com/kathyleesh/kathyleesh/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kathyleesh/kathyleesh/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kathyleesh/kathyleesh/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kathyleesh/kathyleesh/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kathyleesh/kathyleesh/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 <br>
     <h2 align="center">👩🏻‍💻 Activities </h2>
   <br>
