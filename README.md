@@ -3,14 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=4CC0AB&fontColor=ffffff&height=300&section=header&text=LEE&nbsp;SEO&nbsp;HYUN&fontSize=50&fontAlign=70&fontAlignY=25&rotate=20&desc=Here%20is%20future%20Backend%20Developer's%20GitHub&descAlign=70&descAlignY=40&&animation=fadeIn" />
 <br><br>
 
-  <br>
-<p align="center">   
-  <h3>👩🏻‍💻 Top Languages</h3>
-</p>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kathyleesh&layout=compact&custom_title=&nbsp;&nbsp;&nbsp;&bg_color=000000&title_color=4CC0AB&text_color=fff)](https://github.com/kathyleesh/github-readme-stats)
-
-
 
 <p align="center">   
   <h3>👩🏻‍💻 Tech Stack</h3>
