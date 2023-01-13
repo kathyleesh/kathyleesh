@@ -1,7 +1,15 @@
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=slice&color=4CC0AB&fontColor=ffffff&height=300&section=header&text=LEE&nbsp;SEO&nbsp;HYUN&fontSize=50&fontAlign=70&fontAlignY=25&rotate=20&desc=Here%20is%20future%20Backend%20Developer's%20GitHub&descAlign=70&descAlignY=40&&animation=fadeIn" />
-<br><br>
+
+
+<br>
+  
+
+<p align="left">
+  <a href="https://www.instagram.com/seohyun_lee_20/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seohyun_lee_20/"/></a>&nbsp
+  <a href="mailto:kathyleesh7@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kathyleesh7@gmail.com"/></a>
+</p>
   
 <p align="center">   
   <h3>👩🏻‍💻 Tech Stack</h3>
@@ -37,14 +45,9 @@
   |멋쟁이사자처럼 10기|백엔드 트랙|backend(Django)|수료|2022|
   |멋쟁이사자처럼 10기|백엔드 & 기획/디자인 트랙 교육 진행 |운영진(부대표)|수료|2022|
   
-  
-<br>
-
-<p align="right">
-  <a href="https://www.instagram.com/seohyun_lee_20/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seohyun_lee_20/"/></a>&nbsp
-  <a href="mailto:kathyleesh7@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kathyleesh7@gmail.com"/></a>
-</p>
 <p align="right">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkathyleesh&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
+
+<br>
 </div> 
