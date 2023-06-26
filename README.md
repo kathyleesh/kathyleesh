@@ -32,7 +32,7 @@
     <h2 align="center">👩🏻‍💻 Activities </h2>
   <br>
   
-  |Organization|Activity|position|acheive|Date|
+  |Organization|Activity|Position|Achieve|Date|
   |:---:|:---:|:---:|:---:|:---:|
   |SSAFY 9기|SAMSUNG SW ACADEMY FOR YOURTH|Leader|참여 중|2023|
   |멋쟁이사자처럼 10기|멋쟁이사자처럼 동아리 홈페이지 개발|backend(Spring)|참여 중|2023|
