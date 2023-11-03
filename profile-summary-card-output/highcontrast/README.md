@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/kathyleesh/kathyleesh/main/profile-summary-card-output/highcontrast/4-productive-time.svg)
+```
+
+    
